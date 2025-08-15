@@ -1,0 +1,336 @@
+FoodCode	Main.food.description	X2017_2018.FNDDS.At.A.Glance_Foods.and.Beverages	Vidarium.Foodcode.ModCode	ModCode	Old.Main.food.description	FoodID
+11111000	Milk_whole	Yes	No	0	Milk, whole	11111000.0
+11112110	Milk_reduced_fat_2_	Yes	No	0	Milk, reduced fat (2%)	11112110.0
+11113000	Milk_fat_free_skim_	Yes	No	0	Milk, fat free (skim)	11113000.0
+11120000	Milk_dry_reconstituted_NS_as_to_fat_content	Yes	No	0	Milk, dry, reconstituted, NS as to fat content	11120000.0
+11121300	Milk_dry_reconstituted_fat_free_skim_	Yes	No	0	Milk, dry, reconstituted, fat free (skim)	11121300.0
+11211400	Milk_evaporated_reduced_fat_2_	Yes	No	0	Milk, evaporated, reduced fat (2%)	11211400.0
+11220000	Milk_condensed_sweetened	Yes	No	0	Milk, condensed, sweetened	11220000.0
+11320000	Soy_milk	Yes	No	0	Soy milk	11320000.0
+11350020	Almond_milk_unsweetened	Yes	No	0	Almond milk, unsweetened	11350020.0
+11411100	Yogurt_whole_milk_plain	Yes	No	0	Yogurt, whole milk, plain	11411100.0
+11434090	Yogurt_NS_as_to_type_of_milk_flavors_other_than_fruit	Yes	No	0	Yogurt, NS as to type of milk, flavors other than fruit	11434090.0
+11434200	Yogurt_low_fat_milk_flavors_other_than_fruit	Yes	No	0	Yogurt, low fat milk, flavors other than fruit	11434200.0
+11511000	Chocolate_milk_NFS	Yes	No	0	Chocolate milk, NFS	11511000.0
+11511100	Chocolate_milk_ready_to_drink_whole	Yes	No	0	Chocolate milk, ready to drink, whole	11511100.0
+11513400	Chocolate_milk_made_from_syrup_NS_as_to_type_of_milk	Yes	No	0	Chocolate milk, made from syrup, NS as to type of milk	11513400.0
+11514100	Hot_chocolate_Cocoa_made_with_dry_mix_and_water	Yes	No	0	Hot chocolate / Cocoa, made with dry mix and water	11514100.0
+11514120	Hot_chocolate_Cocoa_made_with_dry_mix_and_reduced_fat_milk	Yes	No	0	Hot chocolate / Cocoa, made with dry mix and reduced fat milk	11514120.0
+11514310	Hot_chocolate_Cocoa_made_with_no_sugar_added_dry_mix_and_water	Yes	No	0	Hot chocolate / Cocoa, made with no sugar added dry mix and water	11514310.0
+11519050	Strawberry_milk_whole	Yes	No	0	Strawberry milk, whole	11519050.0
+11553120	Fruit_smoothie_with_whole_fruit_and_dairy_added_protein	Yes	No	0	Fruit smoothie, with whole fruit and dairy, added protein	11553120.0
+11710000	Infant_formula_NFS	Yes	No	0	Infant formula, NFS	11710000.0
+12100100	Cream_NS_as_to_light_heavy_or_half_and_half	Yes	No	0	Cream, NS as to light, heavy, or half and half	12100100.0
+12110100	Cream_light	Yes	No	0	Cream, light	12110100.0
+12120100	Cream_half_and_half	Yes	No	0	Cream, half and half	12120100.0
+12220200	Whipped_topping	Yes	No	0	Whipped topping	12220200.0
+12310100	Sour_cream_regular	Yes	No	0	Sour cream, regular	12310100.0
+13110000	Ice_cream_NFS	Yes	No	0	Ice cream, NFS	13110000.0
+13110100	Ice_cream_vanilla	Yes	No	0	Ice cream, vanilla	13110100.0
+13110110	Ice_cream_chocolate	Yes	No	0	Ice cream, chocolate	13110110.0
+13110200	Ice_cream_soft_serve_vanilla	Yes	No	0	Ice cream, soft serve, vanilla	13110200.0
+13120500	Ice_cream_sandwich_vanilla	Yes	No	0	Ice cream sandwich, vanilla	13120500.0
+13120790	Ice_cream_cone_vanilla_prepackaged	Yes	No	0	Ice cream cone, vanilla, prepackaged	13120790.0
+13150000	Sherbet_all_flavors	Yes	No	0	Sherbet, all flavors	13150000.0
+13230130	Pudding_chocolate_ready_to_eat	Yes	No	0	Pudding, chocolate, ready-to-eat	13230130.0
+13411000	White_sauce_or_gravy	Yes	No	0	White sauce or gravy	13411000.0
+14105010	Cheese_Gouda_or_Edam	Yes	No	0	Cheese, Gouda or Edam	14105010.0
+14107020	Cheese_Mozzarella_whole_milk	No	Yes	0	Cheese_Mozzarella_whole_milk	14107020.0
+14107060	Cheese_Mozzarella_nonfat_or_fat_free	Yes	No	0	Cheese, Mozzarella, nonfat or fat free	14107060.0
+14108010	Cheese_Parmesan_dry_grated	Yes	No	0	Cheese, Parmesan, dry grated	14108010.0
+14108400	Cheese_Provolone	Yes	No	0	Cheese, Provolone	14108400.0
+14133000	Queso_Fresco	Yes	No	0	Queso Fresco	14133000.0
+14203510	Puerto_Rican_white_cheese	Yes	No	0	Puerto Rican white cheese	14203510.0
+14301010	Cream_cheese_regular_plain	Yes	No	0	Cream cheese, regular, plain	14301010.0
+14410130	Cheese_American_nonfat_or_fat_free	Yes	No	0	Cheese, American, nonfat or fat free	14410130.0
+14620200	Cheese_dip	Yes	No	0	Cheese dip	14620200.0
+41101050	Beans_canned_drained_NS_as_to_type_and_as_to_fat_added_in_cooking	No	Yes	0	Beans_canned_drained_NS_as_to_type_and_as_to_fat_added_in_cooking	41101050.0
+41101100	White_beans_dry_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	White_beans_dry_cooked_NS_as_to_fat_added_in_cooking	41101100.0
+41102020	Black_beans_from_dried_no_added_fat	Yes	No	0	Black beans, from dried, no added fat	41102020.0
+41103060	Pink_beans_dry_cooked_fat_not_added_in_cooking	No	Yes	0	Pink_beans_dry_cooked_fat_not_added_in_cooking	41103060.0
+41104000	Pinto_calico_or_red_Mexican_beans_dry_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Pinto_calico_or_red_Mexican_beans_dry_cooked_NS_as_to_fat_added_in_cooking	41104000.0
+41106000	Red_kidney_beans_dry_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Red_kidney_beans_dry_cooked_NS_as_to_fat_added_in_cooking	41106000.0
+41107000	Soybeans_dry_cooked_fat_not_added_in_cooking	No	Yes	0	Soybeans_dry_cooked_fat_not_added_in_cooking	41107000.0
+41205070	Hummus_plain	Yes	No	0	Hummus, plain	41205070.0
+41302000	Chickpeas_dry_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Chickpeas_dry_cooked_NS_as_to_fat_added_in_cooking	41302000.0
+41303000	Split_peas_from_dried_no_added_fat	Yes	No	0	Split peas, from dried, no added fat	41303000.0
+41304980	Lentils_dry_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Lentils_dry_cooked_NS_as_to_fat_added_in_cooking	41304980.0
+41410015	Soy_chips	Yes	No	0	Soy chips	41410015.0
+41420010	Soybean_curd	Yes	No	0	Soybean curd	41420010.0
+41420250	Hoisin_sauce	Yes	No	0	Hoisin sauce	41420250.0
+41420300	Soy_sauce	Yes	No	0	Soy sauce	41420300.0
+41420450	Worcestershire_sauce	Yes	No	0	Worcestershire sauce	41420450.0
+41601010	Bean_soup_NFS	Yes	No	0	Bean soup, NFS	41601010.0
+41603010	Lentil_soup_home_recipe_canned_or_ready_to_serve	Yes	No	0	Lentil soup, home recipe, canned, or ready-to-serve	41603010.0
+42101110	Almonds_salted	Yes	No	0	Almonds, salted	42101110.0
+42101130	Almonds_unsalted	Yes	No	0	Almonds, unsalted	42101130.0
+42101350	Almonds_honey_roasted	Yes	No	0	Almonds, honey roasted	42101350.0
+42102000	Brazil_nuts	Yes	No	0	Brazil nuts	42102000.0
+42106000	Coconut_fresh	Yes	No	0	Coconut, fresh	42106000.0
+42109100	Macadamia_nuts	Yes	No	0	Macadamia nuts	42109100.0
+42110300	Mixed_nuts_honey_roasted	Yes	No	0	Mixed nuts, honey roasted	42110300.0
+42111000	Peanuts_NFS	Yes	No	0	Peanuts, NFS	42111000.0
+42111100	Peanuts_roasted_salted	Yes	No	0	Peanuts, roasted, salted	42111100.0
+42111110	Peanuts_roasted_unsalted	Yes	No	0	Peanuts, roasted, unsalted	42111110.0
+42114140	Pistachio_nuts_salted	Yes	No	0	Pistachio nuts, salted	42114140.0
+42202000	Peanut_butter	Yes	No	0	Peanut butter	42202000.0
+43103000	Sesame_seeds	Yes	No	0	Sesame seeds	43103000.0
+43104000	Flax_seeds	Yes	No	0	Flax seeds	43104000.0
+43107000	Mixed_seeds	Yes	No	0	Mixed seeds	43107000.0
+51000200	Roll_NS_as_to_major_flour	Yes	No	0	Roll, NS as to major flour	51000200.0
+51101000	Bread_white	Yes	No	0	Bread, white	51101000.0
+51101010	Bread_white_toasted	Yes	No	0	Bread, white, toasted	51101010.0
+51107010	Bread_French_or_Vienna	Yes	No	0	Bread, French or Vienna	51107010.0
+51109100	Bread_pita	Yes	No	0	Bread, pita	51109100.0
+51111010	Bread_cheese	Yes	No	0	Bread, cheese	51111010.0
+51123010	Bread_high_protein	Yes	No	0	Bread, high protein	51123010.0
+51161250	Pan_Dulce_no_topping	Yes	No	0	Pan Dulce, no topping	51161250.0
+51166000	Croissant	Yes	No	0	Croissant	51166000.0
+51183990	Breadsticks_NFS	Yes	No	0	Breadsticks, NFS	51183990.0
+51185000	Croutons	Yes	No	0	Croutons	51185000.0
+51186130	Muffin_English_cheese	Yes	No	0	Muffin, English, cheese	51186130.0
+51300060	Bread_whole_grain_white_toasted	Yes	No	0	Bread, whole grain white, toasted	51300060.0
+51300110	Bread_whole_wheat	Yes	No	0	Bread, whole wheat	51300110.0
+52101100	Biscuit_baking_powder_or_buttermilk_type_made_from_mix	No	Yes	0	Biscuit_baking_powder_or_buttermilk_type_made_from_mix	52101100.0
+52104100	Biscuit_cheese	Yes	No	0	Biscuit, cheese	52104100.0
+52201000	Cornbread_prepared_from_mix	Yes	No	0	Cornbread, prepared from mix	52201000.0
+52208010	Corn_pone_baked	Yes	No	0	Corn pone, baked	52208010.0
+52208760	Gordita_sope_shell_plain_no_filling	Yes	No	0	Gordita/sope shell, plain, no filling	52208760.0
+52215000	Tortilla_NFS	Yes	No	0	Tortilla, NFS	52215000.0
+52220110	Arepa_Dominicana	Yes	No	0	Arepa Dominicana	52220110.0
+53103000	Cake_Boston_cream_pie	Yes	No	0	Cake, Boston cream pie	53103000.0
+53104500	Cheesecake	Yes	No	0	Cheesecake	53104500.0
+53116270	Cake_pound_chocolate	Yes	No	0	Cake, pound, chocolate	53116270.0
+53116350	Cake_pound_Puerto_Rican_style	Yes	No	0	Cake, pound, Puerto Rican style	53116350.0
+53116550	Cake_or_cupcake_raisin_nut	Yes	No	0	Cake or cupcake, raisin-nut	53116550.0
+53118550	Cake_tres_leche	Yes	No	0	Cake, tres leche	53118550.0
+53201000	Cookie_NFS	Yes	No	0	Cookie, NFS	53201000.0
+53204000	Cookie_brownie_NS_as_to_icing	Yes	No	0	Cookie, brownie, NS as to icing	53204000.0
+53206000	Cookie_chocolate_chip	Yes	No	0	Cookie, chocolate chip	53206000.0
+53209005	Cookie_chocolate_with_icing_or_coating	Yes	No	0	Cookie, chocolate, with icing or coating	53209005.0
+53209015	Cookie_chocolate_sandwich	Yes	No	0	Cookie, chocolate sandwich	53209015.0
+53210000	Cookie_chocolate_wafer	Yes	No	0	Cookie, chocolate wafer	53210000.0
+53220000	Cookie_fruit_filled_bar	Yes	No	0	Cookie, fruit-filled bar	53220000.0
+53222020	Cookie_cone_shell_ice_cream_type_wafer_or_cake	Yes	No	0	Cookie, cone shell, ice cream type, wafer or cake	53222020.0
+53226550	Cookie_marshmallow_with_rice_cereal_and_chocolate_chips	Yes	No	0	Cookie, marshmallow, with rice cereal and chocolate chips	53226550.0
+53241510	Marie_biscuit	Yes	No	0	Marie biscuit	53241510.0
+53242000	Cookie_sugar_wafer	Yes	No	0	Cookie, sugar wafer	53242000.0
+53420300	Air_filled_fritter_or_fried_puff_without_syrup_Puerto_Rican_style	Yes	No	0	Air filled fritter or fried puff, without syrup, Puerto Rican style	53420300.0
+53452100	Pastry_fruit_filled	Yes	No	0	Pastry, fruit-filled	53452100.0
+53452450	Cheese_pastry_puffs	Yes	No	0	Cheese pastry puffs	53452450.0
+53453150	Empanada_Mexican_turnover_fruit_filled	Yes	No	0	Empanada, Mexican turnover, fruit-filled	53453150.0
+53500100	Breakfast_pastry_NFS	Yes	No	0	Breakfast pastry, NFS	53500100.0
+53520110	Doughnut_cake_type	No	Yes	0	Doughnut_cake_type	53520110.0
+54102050	Crackers_oatmeal	Yes	No	0	Crackers, oatmeal	54102050.0
+54301010	Crackers_butter_plain	Yes	No	0	Crackers, butter, plain	54301010.0
+54301030	Crackers_butter_Ritz_	Yes	No	0	Crackers, butter (Ritz)	54301030.0
+54304000	Crackers_cheese	Yes	No	0	Crackers, cheese	54304000.0
+54319000	Crackers_rice	Yes	No	0	Crackers, rice	54319000.0
+54325000	Crackers_saltine	Yes	No	0	Crackers, saltine	54325000.0
+54325060	Crackers_saltine_multigrain	Yes	No	0	Crackers, saltine, multigrain	54325060.0
+54401021	Corn_chips_plain	Yes	No	0	Corn chips, plain	54401021.0
+54401075	Tortilla_chips_plain	Yes	No	0	Tortilla chips, plain	54401075.0
+54401085	Tortilla_chips_flavored	Yes	No	0	Tortilla chips, flavored	54401085.0
+54401112	Tortilla_chips_other_flavors_Doritos_	Yes	No	0	Tortilla chips, other flavors (Doritos)	54401112.0
+54402200	Snack_mix	Yes	No	0	Snack mix	54402200.0
+54403001	Popcorn_NFS	Yes	No	0	Popcorn, NFS	54403001.0
+55100005	Pancakes_NFS	Yes	No	0	Pancakes, NFS	55100005.0
+55200010	Waffle_NFS	Yes	No	0	Waffle, NFS	55200010.0
+56130000	Pasta_cooked	Yes	No	0	Pasta, cooked	56130000.0
+56201540	Cornmeal_Puerto_Rican_Style	Yes	No	0	Cornmeal, Puerto Rican Style	56201540.0
+56205001	Rice_white_cooked_NS_as_to_fat	Yes	No	0	Rice, white, cooked, NS as to fat	56205001.0
+56205011	Rice_brown_cooked_NS_as_to_fat	Yes	No	0	Rice, brown, cooked, NS as to fat	56205011.0
+56205080	Rice_creamed_made_with_milk_and_sugar_Puerto_Rican_style	Yes	No	0	Rice, creamed, made with milk and sugar, Puerto Rican style	56205080.0
+56205092	Rice_cream_of_cooked_NS_as_to_fat	Yes	No	0	Rice, cream of, cooked, NS as to fat	56205092.0
+56210000	Cereal_nestum	Yes	No	0	Cereal, nestum	56210000.0
+57126000	Cereal_Kellogg_s_Cocoa_Krispies_	Yes	No	0	Cereal (Kellogg's Cocoa Krispies)	57126000.0
+57135000	Cereal_Kellogg_s_Corn_Flakes_	Yes	No	0	Cereal (Kellogg's Corn Flakes)	57135000.0
+57206700	Cereal_General_Mills_Fiber_One_	Yes	No	0	Cereal (General Mills Fiber One)	57206700.0
+57213000	Cereal_Kellogg_s_Froot_Loops_	Yes	No	0	Cereal (Kellogg's Froot Loops)	57213000.0
+57227000	Cereal_granola	Yes	No	0	Cereal, granola	57227000.0
+57320500	Cereal_Quaker_Granola_with_Oats_Honey_and_Raisins_	Yes	No	0	Cereal (Quaker Granola with Oats, Honey, and Raisins)	57320500.0
+57340000	Cereal_puffed_rice	Yes	No	0	Cereal, puffed rice	57340000.0
+57344000	Cereal_Kellogg_s_Special_K_	Yes	No	0	Cereal (Kellogg's Special K)	57344000.0
+57401100	Cereal_toasted_oat	Yes	No	0	Cereal, toasted oat	57401100.0
+57602100	Oats_raw	Yes	No	0	Oats, raw	57602100.0
+57602500	Oat_bran_uncooked	Yes	No	0	Oat bran, uncooked	57602500.0
+58106358	Pizza_cheese_with_fruit_thin_crust	Yes	No	0	Pizza, cheese, with fruit, thin crust	58106358.0
+58106540	Pizza_with_pepperoni_from_restaurant_or_fast_food_NS_as_to_type_of_crust	Yes	No	0	Pizza with pepperoni, from restaurant or fast food, NS as to type of crust	58106540.0
+58106610	Pizza_with_meat_other_than_pepperoni_from_restaurant_or_fast_food_NS_as_to_type_of_crust	Yes	No	0	Pizza with meat other than pepperoni, from restaurant or fast food, NS as to type of crust	58106610.0
+58116110	Meat_turnover_Puerto_Rican_style	Yes	No	0	Meat turnover, Puerto Rican style	58116110.0
+58122320	Knish_cheese	Yes	No	0	Knish, cheese	58122320.0
+58122330	Knish_meat	Yes	No	0	Knish, meat	58122330.0
+58130011	Lasagna_with_meat	Yes	No	0	Lasagna with meat	58130011.0
+58130140	Lasagna_with_chicken_or_turkey	Yes	No	0	Lasagna with chicken or turkey	58130140.0
+58401010	Barley_soup_home_recipe_canned_or_ready_to_serve	Yes	No	0	Barley soup, home recipe, canned, or ready-to-serve	58401010.0
+61113010	Lemon_raw	Yes	No	0	Lemon, raw	61113010.0
+61119010	Orange_raw	Yes	No	0	Orange, raw	61119010.0
+61125010	Tangerine_raw	Yes	No	0	Tangerine, raw	61125010.0
+61210000	Orange_juice_100_NFS	Yes	No	0	Orange juice, 100%, NFS	61210000.0
+61213220	Tangerine_juice_100_	Yes	No	0	Tangerine juice, 100%	61213220.0
+62105000	Blueberries_dried	Yes	No	0	Blueberries, dried	62105000.0
+62122100	Prune_dried	Yes	No	0	Prune, dried	62122100.0
+62125100	Raisins	Yes	No	0	Raisins	62125100.0
+62126000	Tamarind_dried	Yes	No	0	Tamarind, dried	62126000.0
+63101000	Apple_raw	Yes	No	0	Apple, raw	63101000.0
+63103010	Apricot_raw	Yes	No	0	Apricot, raw	63103010.0
+63105010	Avocado_raw	Yes	No	0	Avocado, raw	63105010.0
+63107010	Banana_raw	Yes	No	0	Banana, raw	63107010.0
+63109010	Cantaloupe_raw	Yes	No	0	Cantaloupe, raw	63109010.0
+63115110	Cherries_canned	Yes	No	0	Cherries, canned	63115110.0
+63119010	Fig_raw	Yes	No	0	Fig, raw	63119010.0
+63119110	Fig_canned	Yes	No	0	Fig, canned	63119110.0
+63123000	Grapes_raw	Yes	No	0	Grapes, raw	63123000.0
+63123010	Grapes_European_type_adherent_skin_raw	No	Yes	0	Grapes_European_type_adherent_skin_raw	63123010.0
+63123020	Grapes_American_type_slip_skin_raw	No	Yes	0	Grapes_American_type_slip_skin_raw	63123020.0
+63125010	Guava_raw	Yes	No	0	Guava, raw	63125010.0
+63125100	Guava_shell_canned_in_heavy_syrup	No	Yes	0	Guava_shell_canned_in_heavy_syrup	63125100.0
+63126500	Kiwi_fruit_raw	Yes	No	0	Kiwi fruit, raw	63126500.0
+63129010	Mango_raw	Yes	No	0	Mango, raw	63129010.0
+63133010	Papaya_raw	Yes	No	0	Papaya, raw	63133010.0
+63134010	Passion_fruit_raw	Yes	No	0	Passion fruit, raw	63134010.0
+63135010	Peach_raw	Yes	No	0	Peach, raw	63135010.0
+63137010	Pear_raw	Yes	No	0	Pear, raw	63137010.0
+63139010	Persimmon_raw	Yes	No	0	Persimmon, raw	63139010.0
+63141010	Pineapple_raw	Yes	No	0	Pineapple, raw	63141010.0
+63143010	Plum_raw	Yes	No	0	Plum, raw	63143010.0
+63148750	Tamarind	Yes	No	0	Tamarind	63148750.0
+63149010	Watermelon_raw	Yes	No	0	Watermelon, raw	63149010.0
+63201010	Blackberries_raw	Yes	No	0	Blackberries, raw	63201010.0
+63223020	Strawberries_raw	Yes	No	0	Strawberries, raw	63223020.0
+64221010	Soursop_nectar	Yes	No	0	Soursop, nectar	64221010.0
+64401000	Vinegar	Yes	No	0	Vinegar	64401000.0
+71000100	Potato_NFS	Yes	No	0	Potato, NFS	71000100.0
+71100100	Potato_baked_NFS	Yes	No	0	Potato, baked, NFS	71100100.0
+71102980	Potato_boiled_NFS	Yes	No	0	Potato, boiled, NFS	71102980.0
+71200100	Potato_chips_plain	Yes	No	0	Potato chips, plain	71200100.0
+71202000	Potato_chips_unsalted	Yes	No	0	Potato chips, unsalted	71202000.0
+71851010	Plantain_soup_Puerto_Rican_style	Yes	No	0	Plantain soup, Puerto Rican style	71851010.0
+71900100	Plantain_cooked_no_added_fat	Yes	No	0	Plantain, cooked, no added fat	71900100.0
+71901010	Green_plantains_boiled	No	Yes	0	Green_plantains_boiled	71901010.0
+71905410	Plantain_chips	Yes	No	0	Plantain chips	71905410.0
+71930090	Cassava_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Cassava_cooked_NS_as_to_fat_added_in_cooking	71930090.0
+71930120	Cassava_cooked	Yes	No	0	Cassava, cooked	71930120.0
+71945010	Yam_cooked_Puerto_Rican	Yes	No	0	Yam, cooked, Puerto Rican	71945010.0
+71970120	Starchy_vegetables_including_tannier_white_sweet_potato_and_yam_with_green_or_ripe_plantains_Puerto_Rican_style	No	Yes	0	Starchy_vegetables_including_tannier_white_sweet_potato_and_yam_with_green_or_ripe_plantains_Puerto_Rican_style	71970120.0
+71980200	Taro_chips	Yes	No	0	Taro chips	71980200.0
+72101100	Beet_greens_raw	Yes	No	0	Beet greens, raw	72101100.0
+72101200	Beet_greens_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Beet_greens_cooked_NS_as_to_fat_added_in_cooking	72101200.0
+72103000	Broccoli_raab_raw	Yes	No	0	Broccoli raab, raw	72103000.0
+72103010	Broccoli_raab_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Broccoli_raab_cooked_NS_as_to_fat_added_in_cooking	72103010.0
+72104200	Chard_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Chard_cooked_NS_as_to_fat_added_in_cooking	72104200.0
+72116000	Romaine_lettuce_raw	Yes	No	0	Romaine lettuce, raw	72116000.0
+72125100	Spinach_raw	Yes	No	0	Spinach, raw	72125100.0
+72125200	Spinach_cooked_NS_as_to_form_NS_as_to_fat_added_in_cooking	No	Yes	0	Spinach_cooked_NS_as_to_form_NS_as_to_fat_added_in_cooking	72125200.0
+73101010	Carrots_raw	Yes	No	0	Carrots, raw	73101010.0
+73102200	Carrots_cooked_NS_as_to_form_NS_as_to_fat_added_in_cooking	No	Yes	0	Carrots_cooked_NS_as_to_form_NS_as_to_fat_added_in_cooking	73102200.0
+73210010	Calabaza_cooked	Yes	No	0	Calabaza, cooked	73210010.0
+73421000	Sweet_potato_yellow_Puerto_Rican_cooked	Yes	No	0	Sweet potato, yellow, Puerto Rican, cooked	73421000.0
+74101000	Tomatoes_raw	Yes	No	0	Tomatoes, raw	74101000.0
+74201000	Tomatoes_NS_as_to_form_cooked	Yes	No	0	Tomatoes, NS as to form, cooked	74201000.0
+74401010	Ketchup	Yes	No	0	Ketchup	74401010.0
+74401110	Ketchup_reduced_sodium	Yes	No	0	Ketchup, reduced sodium	74401110.0
+74402110	Salsa_pico_de_gallo	Yes	No	0	Salsa, pico de gallo	74402110.0
+74601000	Tomato_soup_NFS	Yes	No	0	Tomato soup, NFS	74601000.0
+75100300	Sprouts_NFS	Yes	No	0	Sprouts, NFS	75100300.0
+75103000	Cabbage_green_raw	Yes	No	0	Cabbage, green, raw	75103000.0
+75104000	Cabbage_Chinese_raw	Yes	No	0	Cabbage, Chinese, raw	75104000.0
+75105000	Cabbage_red_raw	Yes	No	0	Cabbage, red, raw	75105000.0
+75109000	Celery_raw	Yes	No	0	Celery, raw	75109000.0
+75109400	Basil_raw	Yes	No	0	Basil, raw	75109400.0
+75109550	Cilantro_raw	Yes	No	0	Cilantro, raw	75109550.0
+75111000	Cucumber_raw	Yes	No	0	Cucumber, raw	75111000.0
+75111500	Garlic_raw	Yes	No	0	Garlic, raw	75111500.0
+75112500	Leek_raw	Yes	No	0	Leek, raw	75112500.0
+75113000	Lettuce_raw	Yes	No	0	Lettuce, raw	75113000.0
+75117010	Onions_green_raw	Yes	No	0	Onions, green, raw	75117010.0
+75119000	Parsley_raw	Yes	No	0	Parsley, raw	75119000.0
+75122100	Pepper_sweet_green_raw	Yes	No	0	Pepper, sweet, green, raw	75122100.0
+75122200	Pepper_sweet_red_raw	Yes	No	0	Pepper, sweet, red, raw	75122200.0
+75125000	Radish_raw	Yes	No	0	Radish, raw	75125000.0
+75128000	Summer_squash_yellow_raw	Yes	No	0	Summer squash, yellow, raw	75128000.0
+75200700	Aloe_vera_juice_drink	Yes	No	0	Aloe vera juice drink	75200700.0
+75205003	Beans_string_cooked_from_canned_NS_as_to_color_NS_as_to_fat_added_in_cooking	No	Yes	0	Beans_string_cooked_from_canned_NS_as_to_color_NS_as_to_fat_added_in_cooking	75205003.0
+75210000	Cabbage_Chinese_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Cabbage_Chinese_cooked_NS_as_to_fat_added_in_cooking	75210000.0
+75214000	Cauliflower_cooked_NS_as_to_form_NS_as_to_fat_added_in_cooking	No	Yes	0	Cauliflower_cooked_NS_as_to_form_NS_as_to_fat_added_in_cooking	75214000.0
+75215000	Celery_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Celery_cooked_NS_as_to_fat_added_in_cooking	75215000.0
+75215509	Christophine_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Christophine_cooked_NS_as_to_fat_added_in_cooking	75215509.0
+75216000	Corn_cooked_NS_as_to_form_NS_as_to_color_NS_as_to_fat_added_in_cooking	No	Yes	0	Corn_cooked_NS_as_to_form_NS_as_to_color_NS_as_to_fat_added_in_cooking	75216000.0
+75216150	Corn_yellow_NS_as_to_form_cream_style	No	Yes	0	Corn_yellow_NS_as_to_form_cream_style	75216150.0
+75216153	Corn_creamed	Yes	No	0	Corn, creamed	75216153.0
+75217000	Eggplant_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Eggplant_cooked_NS_as_to_fat_added_in_cooking	75217000.0
+75219000	Mushrooms_cooked_NS_as_to_form_NS_as_to_fat_added_in_cooking	No	Yes	0	Mushrooms_cooked_NS_as_to_form_NS_as_to_fat_added_in_cooking	75219000.0
+75219003	Mushrooms_cooked_from_canned_NS_as_to_fat_added_in_cooking	No	Yes	0	Mushrooms_cooked_from_canned_NS_as_to_fat_added_in_cooking	75219003.0
+75221000	Onions_cooked_NS_as_to_form_NS_as_to_fat_added_in_cooking	No	Yes	0	Onions_cooked_NS_as_to_form_NS_as_to_fat_added_in_cooking	75221000.0
+75226000	Peppers_green_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Peppers_green_cooked_NS_as_to_fat_added_in_cooking	75226000.0
+75226040	Peppers_red_cooked_NS_as_to_fat_added_in_cooking	No	Yes	0	Peppers_red_cooked_NS_as_to_fat_added_in_cooking	75226040.0
+75226090	Peppers_hot_cooked_NS_as_to_form_NS_as_to_fat_added_in_cooking	No	Yes	0	Peppers_hot_cooked_NS_as_to_form_NS_as_to_fat_added_in_cooking	75226090.0
+75226700	Pimiento	Yes	No	0	Pimiento	75226700.0
+75236000	Yeast	Yes	No	0	Yeast	75236000.0
+75503040	Pickles_sweet	Yes	No	0	Pickles, sweet	75503040.0
+75503085	Ginger_root_pickled	Yes	No	0	Ginger root, pickled	75503085.0
+75506010	Mustard	Yes	No	0	Mustard	75506010.0
+75510000	Olives_NFS	Yes	No	0	Olives, NFS	75510000.0
+75510010	Olives_green	Yes	No	0	Olives, green	75510010.0
+75511010	Hot_pepper_sauce	Yes	No	0	Hot pepper sauce	75511010.0
+75607000	Mushroom_soup_NFS	Yes	No	0	Mushroom soup, NFS	75607000.0
+75607020	Mushroom_soup_cream_of_prepared_with_water	Yes	No	0	Mushroom soup, cream of, prepared with water	75607020.0
+75649050	Vegetable_soup_made_from_dry_mix	Yes	No	0	Vegetable soup, made from dry mix	75649050.0
+75649110	Vegetable_soup_home_recipe	Yes	No	0	Vegetable soup, home recipe	75649110.0
+77230210	Cassava_Pasteles_Puerto_Rican_style	Yes	No	0	Cassava Pasteles, Puerto Rican style	77230210.0
+77272010	Puerto_Rican_pasteles	Yes	No	0	Puerto Rican pasteles	77272010.0
+91101010	Sugar_white_granulated_or_lump	Yes	No	0	Sugar, white, granulated or lump	91101010.0
+91102010	Sugar_brown	Yes	No	0	Sugar, brown	91102010.0
+91106010	Sugar_substitute_and_sugar_blend	Yes	No	0	Sugar substitute and sugar blend	91106010.0
+91300010	Syrup_NFS	Yes	No	0	Syrup, NFS	91300010.0
+91302020	Agave_liquid_sweetener	Yes	No	0	Agave liquid sweetener	91302020.0
+91304010	Topping_butterscotch_or_caramel	Yes	No	0	Topping, butterscotch or caramel	91304010.0
+91306020	Caramel_dip_regular	Yes	No	0	Caramel dip, regular	91306020.0
+91401000	Jelly_all_flavors	Yes	No	0	Jelly, all flavors	91401000.0
+91404000	Marmalade_all_flavors	Yes	No	0	Marmalade, all flavors	91404000.0
+91405000	Jelly_sugar_free_all_flavors	Yes	No	0	Jelly, sugar free, all flavors	91405000.0
+91407100	Guava_paste	Yes	No	0	Guava paste	91407100.0
+91700010	Candy_NFS	Yes	No	0	Candy, NFS	91700010.0
+91705010	Milk_chocolate_candy_plain	Yes	No	0	Milk chocolate candy, plain	91705010.0
+91705070	Chocolate_milk_with_peanuts	Yes	No	0	Chocolate, milk, with peanuts	91705070.0
+91706400	Coconut_candy_Puerto_Rican_style	Yes	No	0	Coconut candy, Puerto Rican style	91706400.0
+91708000	Fruit_peel_candied	Yes	No	0	Fruit peel, candied	91708000.0
+91723000	Marshmallow	Yes	No	0	Marshmallow	91723000.0
+91745010	Gumdrops	Yes	No	0	Gumdrops	91745010.0
+91746100	M_M_s_Milk_Chocolate_Candies	Yes	No	0	M&M's Milk Chocolate Candies	91746100.0
+91770000	Dietetic_or_low_calorie_candy_NFS	Yes	No	0	Dietetic or low calorie candy, NFS	91770000.0
+91800100	Chewing_gum_NFS	Yes	No	0	Chewing gum, NFS	91800100.0
+92101000	Coffee_brewed	Yes	No	0	Coffee, brewed	92101000.0
+92103000	Coffee_instant_reconstituted	Yes	No	0	Coffee, instant, reconstituted	92103000.0
+92111000	Coffee_NS_as_to_brewed_or_instant_decaffeinated	Yes	No	0	Coffee, NS as to brewed or instant, decaffeinated	92111000.0
+92111010	Coffee_brewed_decaffeinated	Yes	No	0	Coffee, brewed, decaffeinated	92111010.0
+92114000	Coffee_instant_decaffeinated_reconstituted	Yes	No	0	Coffee, instant, decaffeinated, reconstituted	92114000.0
+92161000	Coffee_Cappuccino	Yes	No	0	Coffee, Cappuccino	92161000.0
+92306100	Corn_beverage	Yes	No	0	Corn beverage	92306100.0
+92306700	Tea_hot_chamomile	Yes	No	0	Tea, hot, chamomile	92306700.0
+92307500	Iced_Tea_Lemonade_juice_drink	Yes	No	0	Iced Tea / Lemonade juice drink	92307500.0
+92307510	Iced_Tea_Lemonade_juice_drink_light	Yes	No	0	Iced Tea / Lemonade juice drink, light	92307510.0
+92307520	Iced_Tea_Lemonade_juice_drink_diet	Yes	No	0	Iced Tea / Lemonade juice drink, diet	92307520.0
+92400000	Soft_drink_NFS	Yes	No	0	Soft drink, NFS	92400000.0
+92410310	Soft_drink_cola	Yes	No	0	Soft drink, cola	92410310.0
+92410320	Soft_drink_cola_diet	Yes	No	0	Soft drink, cola, diet	92410320.0
+92410520	Soft_drink_fruit_flavored_diet_caffeine_free	Yes	No	0	Soft drink, fruit flavored, diet, caffeine free	92410520.0
+92410610	Soft_drink_ginger_ale	Yes	No	0	Soft drink, ginger ale	92410610.0
+92511250	Fruit_juice_beverage_40_50_juice_citrus	Yes	No	0	Fruit juice beverage, 40-50% juice, citrus	92511250.0
+92530410	Fruit_flavored_drink_with_high_vitamin_C	Yes	No	0	Fruit flavored drink, with high vitamin C	92530410.0
+92542000	Fruit_flavored_drink_with_high_vitamin_C_powdered_reconstituted	Yes	No	0	Fruit flavored drink, with high vitamin C, powdered, reconstituted	92542000.0
+92552000	Fruit_flavored_drink_with_high_vitamin_C_powdered_reconstituted_diet	Yes	No	0	Fruit flavored drink, with high vitamin C, powdered, reconstituted, diet	92552000.0
+92611010	Oatmeal_beverage_with_water	Yes	No	0	Oatmeal beverage with water	92611010.0
+92611100	Oatmeal_beverage_with_milk	Yes	No	0	Oatmeal beverage with milk	92611100.0
+92612010	Sugar_cane_beverage	Yes	No	0	Sugar cane beverage	92612010.0
+92803000	Nonalcoholic_malt_beverage	Yes	No	0	Nonalcoholic malt beverage	92803000.0
+92900300	Sports_drink_dry_concentrate_not_reconstituted	Yes	No	0	Sports drink, dry concentrate, not reconstituted	92900300.0
+93101000	Beer	Yes	No	0	Beer	93101000.0
+93102000	Beer_light	Yes	No	0	Beer, light	93102000.0
+93401010	Wine_table_red	Yes	No	0	Wine, table, red	93401010.0
+93401020	Wine_table_white	Yes	No	0	Wine, table, white	93401020.0
+95103000	Nutritional_drink_or_shake_ready_to_drink_Ensure_	Yes	No	0	Nutritional drink or shake, ready-to-drink (Ensure)	95103000.0
+95201010	Nutritional_powder_mix_sugar_free_Carnation_Instant_Breakfast_	Yes	No	0	Nutritional powder mix, sugar free (Carnation Instant Breakfast)	95201010.0
+95201700	Nutritional_powder_mix_Kellogg_s_Special_K20_Protein_Water_	Yes	No	0	Nutritional powder mix (Kellogg's Special K20 Protein Water)	95201700.0
+95220010	Nutritional_powder_mix_high_protein_NFS	Yes	No	0	Nutritional powder mix, high protein, NFS	95220010.0
+95311000	Energy_Drink	Yes	No	0	Energy Drink	95311000.0
