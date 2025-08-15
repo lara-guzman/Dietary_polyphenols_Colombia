@@ -1,0 +1,10 @@
+L1	annotation	var
+L1_Meat_Poultry_Fish_and_Mixtures	annotation_background_color	#E8AD91
+L1_Grain_Product	annotation_background_color	#FFD390
+L1_Vegetables	annotation_background_color	#D8FAC4
+L1_Milk_and_Milk_Products	annotation_background_color	#D6F5F5
+L1_Sugars_Sweets_and_Beverages	annotation_background_color	#EEA0EC
+L1_Fruits	annotation_background_color	#FEFDE2
+L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds	annotation_background_color	#B9896F
+L1_Eggs	annotation_background_color	#F7E8BA
+L1_Fats_Oils_and_Salad_Dressings	annotation_background_color	#D3D3D3

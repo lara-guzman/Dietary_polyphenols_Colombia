@@ -1,0 +1,45 @@
+total_plotted_degrees	355	
+start_rotation	270	
+annotation_background_alpha	0.25	
+annotation_font_stretch	10	
+branch_thickness	0.8	
+branch_bracket_depth	0.25	
+branch_bracket_width	1	
+clade_marker_size	0	
+clade_separation	0	
+ignore_branch_len	1	
+		
+#ring_label	1	Average fiber(g)
+#ring_label_color	1	#696969
+#ring_internal_separator_thickness	1	0.7
+#ring_label_font_size	20	
+		
+L1_Meat_Poultry_Fish_and_Mixtures*	clade_marker_color	#D43F1F
+L1_Grain_Product*	clade_marker_color	#FE9700
+L1_Vegetables*	clade_marker_color	#5DD047
+L1_Milk_and_Milk_Products*	clade_marker_color	#00A2F2
+L1_Sugars_Sweets_and_Beverages*	clade_marker_color	#C91ACB
+L1_Fruits*	clade_marker_color	#CBD12D
+L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds*	clade_marker_color	#662A00
+L1_Eggs*	clade_marker_color	#A8863A
+L1_Fats_Oils_and_Salad_Dressings*	clade_marker_color	#737373
+		
+		
+L1_Meat_Poultry_Fish_and_Mixtures	annotation	Meats
+L1_Meat_Poultry_Fish_and_Mixtures	annotation_background_color	#E8AD91
+L1_Grain_Product	annotation	Grains
+L1_Grain_Product	annotation_background_color	#FFD390
+L1_Vegetables	annotation	Vegetables
+L1_Vegetables	annotation_background_color	#D8FAC4
+L1_Milk_and_Milk_Products	annotation	Milks
+L1_Milk_and_Milk_Products	annotation_background_color	#D6F5F5
+L1_Sugars_Sweets_and_Beverages	annotation	Sweets and Beverages
+L1_Sugars_Sweets_and_Beverages	annotation_background_color	#EEA0EC
+L1_Fruits	annotation	Fruits
+L1_Fruits	annotation_background_color	#FEFDE2
+L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds	annotation	Legumes
+L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds	annotation_background_color	#B9896F
+L1_Eggs	annotation	Eggs
+L1_Eggs	annotation_background_color	#F7E8BA
+L1_Fats_Oils_and_Salad_Dressings	annotation	Fats
+L1_Fats_Oils_and_Salad_Dressings	annotation_background_color	#D3D3D3
